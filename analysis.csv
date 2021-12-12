@@ -1,0 +1,2 @@
+Model Name,Vocabulary Size,C,V,Accuracy
+fasttext-wiki-news-subwords-300,80,73,80,0.9125
