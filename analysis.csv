@@ -1,2 +1,9 @@
-Model Name,Vocabulary Size,C,V,Accuracy
-fasttext-wiki-news-subwords-300,80,73,80,0.9125
+fasttext-wiki-news-subwords-300,999999,73,80,0.9125
+
+conceptnet-numberbatch-17-06-300,1917247,0,0,0
+
+glove-twitter-25,1193514,33,80,0.4125
+
+glove-twitter-50,1193514,35,80,0.4375
+
+
