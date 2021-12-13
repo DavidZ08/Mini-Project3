@@ -7,5 +7,6 @@ How to run the project:
 4. From https://radimrehurek.com/gensim/ follow the instructions under "Quick Install" (That means, find your Conda or Python interpreter with the command-line and write what is under "run in your terminal" or "or, alternatively for conda environments:" in the command-line (according to your situation) and press enter). Wait for the install to finish.
 5. Open the project and open the file "main_notebook.ipynb".
 6. Execept "synonyms.csv", "README.md", and "main_notebook.ipynb" delete ever other file (if you want to).
-7. Click the button "Run all cells" and let it run (it may take a long time to finish).
-8. The output files will be in the same directory as the project.
+7. On the upper-left corner of the window, click the "select kernel" button and choose your latest python interpreter.
+8. Click the button "Run all" and let it run (it may take a long time to finish).
+9. The output files will be in the same directory as the project.
